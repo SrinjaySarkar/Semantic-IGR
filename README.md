@@ -6,9 +6,9 @@ Pytorch Implementation of Implicit Gemoteric Regularization.Based on the paper:
 
 
 ### To-Do
-- [] Finish the shape space experiments for Shapenet.
-- [] Remove extra artifacts from final output mesh. 
-- [] Add semantic branch for mesh rendering step for semi supervised SSC.
+- [ ] Finish the shape space experiments for Shapenet.
+- [ ] Remove extra artifacts from final output mesh. 
+- [ ] Add semantic branch for mesh rendering step for semi supervised SSC.
 
 ### Sample results om DFAUST and Shapenet
 #
